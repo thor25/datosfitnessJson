@@ -1,11 +1,132 @@
 {
-    "posts": [
+   
+    "dias":
+    {
+    "title": "Ejercicios",
+    "datos":
+    [
       {
+        "fecha":"23/04/2024",
         "id": 1,
-        "title": "hola"
+        "ejercicios":
+        [
+            {
+                "ejercicio":"correr",
+                "tiempo": "00:10:00",
+                "PME":7
+            },
+           {   
+            
+            "ejercicio":"press",
+            "RM":100,
+            "PME":5,
+            "series":[
+                {
+                    "peso":50,
+                    "repeticiones":10,
+                    "PME":8
+                },
+                {
+                    "peso":55,
+                    "repeticiones":8,
+                    "PME":6
+                }
+                ,
+                {
+                    "peso":65,
+                    "repeticiones":4,
+                    "PME":3
+                }
+            ]},
+            {   
+            
+            "ejercicio":"press hombro",
+            "RM":30,
+            "PME":6,
+            "series":[
+                {
+                    "peso":10,
+                    "repeticiones":10,
+                    "PME":8
+                },
+                {
+                    "peso":15,
+                    "repeticiones":8,
+                    "PME":8
+                }
+                ,
+                {
+                    "peso":25,
+                    "repeticiones":6,
+                    "PME":3
+                }
+            ]}
+            ]
+
+        },
+        {
+            "fecha":"22/04/2024",
+            "id": 1,
+            "ejercicios":
+            [
+                {
+                    "ejercicio":"correr",
+                    "tiempo": "00:20:00",
+                    "PME":7
+                },
+               {   
+                
+                "ejercicio":"jalón",
+                "RM":100,
+                "PME":5,
+                "series":[
+                    {
+                        "peso":50,
+                        "repeticiones":10,
+                        "PME":8
+                    },
+                    {
+                        "peso":55,
+                        "repeticiones":8,
+                        "PME":6
+                    }
+                    ,
+                    {
+                        "peso":65,
+                        "repeticiones":4,
+                        "PME":3
+                    }
+                ]},
+                {   
+                
+                "ejercicio":"remo",
+                "RM":50,
+                "PME":6,
+                "series":[
+                    {
+                        "peso":40,
+                        "repeticiones":10,
+                        "PME":8
+                    },
+                    {
+                        "peso":45,
+                        "repeticiones":8,
+                        "PME":8
+                    }
+                    ,
+                    {
+                        "peso":48,
+                        "repeticiones":6,
+                        "PME":3
+                    }
+                ]}
+                ]
+    
+            }]
+     
+    
+            }
+           
       }
-    ],
-    "profile": {
-      "name": "Juan"
-    }
-  }
+      
+   
