@@ -1,11 +1,79 @@
 {
-    "posts": [
+   "diario":
+   {
+    "dia":
+    [
       {
-        "id": 1,
-        "title": "hola"
-      }
-    ],
-    "profile": {
-      "name": "Juan"
-    }
+      "fecha":"24/04/2024",
+      "ejercicios":
+      [
+      {
+      "ejercicio":
+      [
+       {
+        "nombre":"press banca",
+        "PME":7,
+        "RM":100,
+        "tiempo":"00:05:00",
+        "series":
+        [
+          {
+          "repeticiones":10,
+          "peso":80,
+          "PME":8
+          },
+          {
+            "repeticiones":8,
+            "peso":85,
+            "PME":6
+            },
+            {
+              "repeticiones":6,
+              "peso":90,
+              "PME":4
+              }
+      ]
+
+        }
+    ]}
+    ]},
+    
+    
+      {
+      "fecha":"23/04/2024",
+      "ejercicios":
+      [
+      {
+      "ejercicio":
+      [
+       {
+        "nombre":"jalon",
+        "PME":7,
+        "RM":70,
+        "tiempo":"00:05:00",
+        "series":
+        [
+          {
+          "repeticiones":10,
+          "peso":60,
+          "PME":8
+          },
+          {
+            "repeticiones":8,
+            "peso":65,
+            "PME":6
+            },
+            {
+              "repeticiones":6,
+              "peso":67,
+              "PME":4
+              }
+      ]
+
+        }
+    ]}
+    ]}
+    ]
+   }
   }
+  
