@@ -94,6 +94,21 @@
         "1RM":150,
         "indice":"3.5-7"
       }
+    ],
+    "comidas":
+    [
+      {
+        "id":1,
+        "nombre":"salmón en papillote",
+        "calorias":250,
+        "peso":250,
+        "composicion":
+        {
+          "Grasas":25,
+          "Hidratos":11,
+          "Proteinas":25
+        }
+      }
     ]
    }
   
