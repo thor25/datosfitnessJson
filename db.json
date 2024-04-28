@@ -104,9 +104,10 @@
         "peso":250,
         "composicion":
         {
+          "Proteinas":25,
           "Grasas":25,
-          "Hidratos":11,
-          "Proteinas":25
+          "Hidratos":11
+          
         }
       }
     ],
