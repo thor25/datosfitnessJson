@@ -79,19 +79,19 @@
       {
         "id":1,
         "nombre": "press banca",
-        "1RM":100,
+        "RM":100,
         "indice":"3.5-7"
       },
       {
         "id":2,
         "nombre": "press hombro",
-        "1RM":40,
+        "RM":40,
         "indice":"3.5-7"
       },
       {
         "id":3,
         "nombre": "sentadilla",
-        "1RM":150,
+        "RM":150,
         "indice":"3.5-7"
       }
     ],
