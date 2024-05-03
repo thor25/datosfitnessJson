@@ -78,81 +78,99 @@
     
       "ejercicios": [
         {
+          "id":1,
+          "RM":0,
           "nombre": "Sentadillas",
           "descripcion": "De pie, con los pies a la anchura de los hombros, flexiona las rodillas manteniendo la espalda recta.",
           "grupo_muscular": "Piernas",
           "coeficiente_calorias": 0.1
         },
         {
+          "id":2,
+          "RM":0,
           "nombre": "Peso muerto",
           "descripcion": "Con una barra o mancuernas, flexiona ligeramente las rodillas y baja con la espalda recta hasta sentir estiramiento en los isquiotibiales.",
           "grupo_muscular": "Piernas",
           "coeficiente_calorias": 0.12
         },
         {
+          "id":3,
+          "RM":0,
           "nombre": "Press de banca",
           "descripcion": "Acostado en un banco plano, empuja la barra desde el pecho hasta extender completamente los brazos.",
           "grupo_muscular": "Pecho",
           "coeficiente_calorias": 0.08
         },
         {
+          "id":4,
+          "RM":0,
           "nombre": "Aperturas con mancuernas",
           "descripcion": "Acostado en un banco plano, abre los brazos manteniendo una ligera flexión en los codos y luego ciérralos sobre el pecho.",
           "grupo_muscular": "Pecho",
           "coeficiente_calorias": 0.05
         },
         {
+          "id":5,
+          "RM":0,
           "nombre": "Dominadas",
           "descripcion": "Colgado de una barra con agarre pronado, eleva tu cuerpo hasta que la barbilla sobrepase la barra.",
           "grupo_muscular": "Espalda",
           "coeficiente_calorias": 0.09
         },
-        {
+        { 
+          "id":6,
+          "RM":0,
           "nombre": "Remo con barra",
           "descripcion": "Inclinado hacia adelante, tira de la barra hacia el abdomen manteniendo la espalda recta.",
           "grupo_muscular": "Espalda",
           "coeficiente_calorias": 0.08
         },
         {
+          "id":7,
+          "RM":0,
           "nombre": "Press militar",
           "descripcion": "De pie o sentado, empuja la barra o mancuernas desde los hombros hasta extender completamente los brazos sobre la cabeza.",
           "grupo_muscular": "Hombros",
           "coeficiente_calorias": 0.07
         },
         {
+          "id":8,
+          "RM":0,
           "nombre": "Elevaciones laterales",
           "descripcion": "De pie, con mancuernas, eleva los brazos lateralmente hasta la altura de los hombros.",
           "grupo_muscular": "Hombros",
           "coeficiente_calorias": 0.04
         },
         {
+          "id":9,
+          "RM":0,
           "nombre": "Curl de bíceps",
           "descripcion": "De pie o sentado, con mancuernas, flexiona los codos llevando el peso hacia los hombros.",
           "grupo_muscular": "Brazos",
           "coeficiente_calorias": 0.05
         },
-        {
+        { "id":10,
+        "RM":0,
           "nombre": "Extensiones de tríceps en polea alta",
           "descripcion": "De pie, frente a una polea alta, empuja hacia abajo el agarre hasta extender completamente los brazos.",
           "grupo_muscular": "Brazos",
           "coeficiente_calorias": 0.05
         },
-        {
+        { "id":11,
+        "RM":0,
           "nombre": "Crunches",
           "descripcion": "Acostado boca arriba, con las rodillas flexionadas, eleva el torso hacia las rodillas sin despegar la zona lumbar del suelo.",
           "grupo_muscular": "Abdominales",
           "coeficiente_calorias": 0.06
         },
-        {
+        { "id":12,
+        "RM":0,
           "nombre": "Plancha",
           "descripcion": "En posición frontal apoyado sobre los antebrazos y las puntas de los pies, mantén el cuerpo recto y firme.",
           "grupo_muscular": "Abdominales",
           "coeficiente_calorias": 0.05
         }
-      ]
-    
-    
-    ,
+      ],
     "comidas":
     [
       {
