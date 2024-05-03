@@ -171,22 +171,81 @@
           "coeficiente_calorias": 0.05
         }
       ],
-    "comidas":
-    [
-      {
-        "id":1,
-        "nombre":"salmón en papillote",
-        "calorias":250,
-        "peso":250,
-        "composicion":
-        {
-          "Proteinas":25,
-          "Grasas":25,
-          "Hidratos":11
-          
-        }
-      }
-    ],
+      
+        "comidas": [
+          {
+            "id": 1,
+            "nombre": "Batido de proteínas con plátano",
+            "ingredientes": ["1 plátano", "200 ml de leche de almendras", "1 scoop de proteína en polvo", "1 cucharada de mantequilla de almendras"],
+            "forma_de_preparacion": "Mezcla todos los ingredientes en una licuadora hasta obtener una consistencia suave.",
+            "calorias_ingeridas": 350
+          },
+          {
+            "id": 2,
+            "nombre": "Tortilla de claras con espinacas",
+            "ingredientes": ["4 claras de huevo", "1 taza de espinacas", "Sal", "Pimienta"],
+            "forma_de_preparacion": "Cocina las claras de huevo en una sartén antiadherente y añade las espinacas al final.",
+            "calorias_ingeridas": 150
+          },
+          {
+            "id": 3,
+            "nombre": "Pollo a la parrilla con quinoa",
+            "ingredientes": ["200 g de pechuga de pollo", "1 taza de quinoa", "Especias al gusto"],
+            "forma_de_preparacion": "Grillar el pollo con especias y cocer la quinoa según las instrucciones del paquete.",
+            "calorias_ingeridas": 500
+          },
+          {
+            "id": 4,
+            "nombre": "Salmón al horno con brócoli",
+            "ingredientes": ["200 g de salmón", "1 taza de brócoli", "Aceite de oliva", "Limón", "Sal"],
+            "forma_de_preparacion": "Hornea el salmón con brócoli, aceite de oliva y limón a 180°C durante 20 minutos.",
+            "calorias_ingeridas": 400
+          },
+          {
+            "id": 5,
+            "nombre": "Arroz integral con lentejas",
+            "ingredientes": ["1 taza de arroz integral", "1 taza de lentejas cocidas", "Cebolla", "Ajo", "Especias al gusto"],
+            "forma_de_preparacion": "Cocina el arroz integral y las lentejas con cebolla, ajo y especias.",
+            "calorias_ingeridas": 350
+          },
+          {
+            "id": 6,
+            "nombre": "Ensalada de garbanzos con atún",
+            "ingredientes": ["1 taza de garbanzos cocidos", "1 lata de atún en agua", "Tomate", "Pepino", "Cebolla", "Aceite de oliva"],
+            "forma_de_preparacion": "Mezcla los garbanzos con atún y vegetales frescos. Adereza con aceite de oliva.",
+            "calorias_ingeridas": 300
+          },
+          {
+            "id": 7,
+            "nombre": "Batido de avena y frutos rojos",
+            "ingredientes": ["1/2 taza de avena", "1 taza de frutos rojos", "200 ml de leche de almendras", "1 cucharada de miel"],
+            "forma_de_preparacion": "Licúa la avena con los frutos rojos, la leche de almendras y la miel.",
+            "calorias_ingeridas": 250
+          },
+          {
+            "id": 8,
+            "nombre": "Huevos rellenos de aguacate",
+            "ingredientes": ["4 huevos", "1 aguacate", "Limón", "Sal", "Pimienta"],
+            "forma_de_preparacion": "Cuece los huevos, córtalos por la mitad y rellénalos con una mezcla de aguacate, limón, sal y pimienta.",
+            "calorias_ingeridas": 300
+          },
+          {
+            "id": 9,
+            "nombre": "Tofu salteado con verduras",
+            "ingredientes": ["200 g de tofu", "1 taza de verduras variadas", "Salsa de soja", "Aceite de sésamo"],
+            "forma_de_preparacion": "Saltea el tofu con las verduras y añade salsa de soja y aceite de sésamo al gusto.",
+            "calorias_ingeridas": 350
+          },
+          {
+            "id": 10,
+            "nombre": "Ensalada de atún con aguacate",
+            "ingredientes": ["1 lata de atún en agua", "1 aguacate", "Tomate", "Lechuga", "Aceite de oliva", "Vinagre"],
+            "forma_de_preparacion": "Mezcla el atún con el aguacate y los vegetales. Adereza con aceite de oliva y vinagre.",
+            "calorias_ingeridas": 400
+          }
+        ]
+      
+      ,
     "datos":
     [
     {
